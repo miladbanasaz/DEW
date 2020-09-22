@@ -22,7 +22,7 @@ namespace WeatherObservationStation.Models
     public class WeatherData
     {
         [JsonProperty("air_temp")]
-        public decimal Temperature { get; set; }
+        public decimal AirTemperature { get; set; }
 
         [JsonProperty("local_date_time_full")]
         public string DateOrg { get; set; }
@@ -59,37 +59,37 @@ namespace WeatherObservationStation.Models
         [JsonProperty("cloud")]
         public string Cloud { get; set; }
         [JsonProperty("cloud_base_m")]
-        public string CloudBaseM { get; set; }
+        public int? CloudBaseM { get; set; }
         [JsonProperty("cloud_oktas")]
-        public string CloudOktas { get; set; }
+        public int? CloudOktas { get; set; }
         [JsonProperty("cloud_type_id")]
-        public string CloudTypeId { get; set; }
+        public int? CloudTypeId { get; set; }
         [JsonProperty("cloud_type")]
         public string CloudType { get; set; }
         [JsonProperty("delta_t")]
-        public string DeltaT { get; set; }
+        public decimal DeltaT { get; set; }
         [JsonProperty("gust_kmh")]
-        public string GustKmh { get; set; }
+        public int GustKmh { get; set; }
         [JsonProperty("gust_kt")]
-        public string GustKt { get; set; }
+        public int GustKt { get; set; }
 
         [JsonProperty("dewpt")]
-        public string Dewpt { get; set; }
+        public decimal Dewpt { get; set; }
 
         [JsonProperty("press")]
-        public string Press { get; set; }
+        public decimal Press { get; set; }
         [JsonProperty("press_qnh")]
-        public string PressQnh { get; set; }
+        public decimal PressQnh { get; set; }
 
         [JsonProperty("press_msl")]
-        public string PressMsl { get; set; }
+        public decimal PressMsl { get; set; }
         [JsonProperty("press_tend")]
         public string PressTend { get; set; }
         [JsonProperty("rain_trace")]
         public string RainTrace { get; set; }
 
         [JsonProperty("rel_hum")]
-        public string RelHum { get; set; }
+        public int RelHum { get; set; }
 
         [JsonProperty("sea_state")]
         public string SeaState { get; set; }
@@ -98,10 +98,10 @@ namespace WeatherObservationStation.Models
         public string SwellDirWorded { get; set; }
 
         [JsonProperty("swell_height")]
-        public string SwellHeight { get; set; }
+        public int? SwellHeight { get; set; }
 
         [JsonProperty("swell_period")]
-        public string SwellPeriod { get; set; }
+        public int? SwellPeriod { get; set; }
 
         [JsonProperty("vis_km")]
         public string VisKm { get; set; }
@@ -113,10 +113,10 @@ namespace WeatherObservationStation.Models
         public string WindDir { get; set; }
 
         [JsonProperty("wind_spd_kmh")]
-        public string WindSpdKmh { get; set; }
+        public int WindSpdKmh { get; set; }
 
         [JsonProperty("wind_spd_kt")]
-        public string WindSpdKt { get; set; }		
+        public int WindSpdKt { get; set; }		
 				
 				
         
