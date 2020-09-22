@@ -1,0 +1,10 @@
+C:\Users\Milad Banasaz\source\repos\WeatherAverageCalculator\WeatherAverageCalculator\obj\Debug\WeatherAverageCalculator.csprojAssemblyReference.cache
+C:\Users\Milad Banasaz\source\repos\WeatherAverageCalculator\WeatherAverageCalculator\obj\Debug\WeatherAverageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Milad Banasaz\source\repos\WeatherAverageCalculator\WeatherAverageCalculator\bin\Debug\WeatherAverageCalculator.exe.config
+C:\Users\Milad Banasaz\source\repos\WeatherAverageCalculator\WeatherAverageCalculator\bin\Debug\WeatherAverageCalculator.exe
+C:\Users\Milad Banasaz\source\repos\WeatherAverageCalculator\WeatherAverageCalculator\bin\Debug\WeatherAverageCalculator.pdb
+C:\Users\Milad Banasaz\source\repos\WeatherAverageCalculator\WeatherAverageCalculator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Milad Banasaz\source\repos\WeatherAverageCalculator\WeatherAverageCalculator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Milad Banasaz\source\repos\WeatherAverageCalculator\WeatherAverageCalculator\obj\Debug\WeatherAverageCalculator.csproj.CopyComplete
+C:\Users\Milad Banasaz\source\repos\WeatherAverageCalculator\WeatherAverageCalculator\obj\Debug\WeatherAverageCalculator.exe
+C:\Users\Milad Banasaz\source\repos\WeatherAverageCalculator\WeatherAverageCalculator\obj\Debug\WeatherAverageCalculator.pdb

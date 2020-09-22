@@ -1,0 +1,9 @@
+C:\Users\Milad Banasaz\source\repos\WorkingWithCSVFile\WorkingWithCSVFile\bin\Debug\WorkingWithCSVFile.exe.config
+C:\Users\Milad Banasaz\source\repos\WorkingWithCSVFile\WorkingWithCSVFile\bin\Debug\WorkingWithCSVFile.exe
+C:\Users\Milad Banasaz\source\repos\WorkingWithCSVFile\WorkingWithCSVFile\bin\Debug\WorkingWithCSVFile.pdb
+C:\Users\Milad Banasaz\source\repos\WorkingWithCSVFile\WorkingWithCSVFile\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Milad Banasaz\source\repos\WorkingWithCSVFile\WorkingWithCSVFile\obj\Debug\WorkingWithCSVFile.csprojAssemblyReference.cache
+C:\Users\Milad Banasaz\source\repos\WorkingWithCSVFile\WorkingWithCSVFile\obj\Debug\WorkingWithCSVFile.csproj.CoreCompileInputs.cache
+C:\Users\Milad Banasaz\source\repos\WorkingWithCSVFile\WorkingWithCSVFile\obj\Debug\WorkingWithCSVFile.csproj.CopyComplete
+C:\Users\Milad Banasaz\source\repos\WorkingWithCSVFile\WorkingWithCSVFile\obj\Debug\WorkingWithCSVFile.exe
+C:\Users\Milad Banasaz\source\repos\WorkingWithCSVFile\WorkingWithCSVFile\obj\Debug\WorkingWithCSVFile.pdb
